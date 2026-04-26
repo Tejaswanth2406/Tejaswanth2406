@@ -1,21 +1,79 @@
-# About Me:
-I'm a 3rd-year Computer Science student focused on software engineering, AI systems, and cloud security.<br><br>I build high-performance, research-driven systems that combine:<br><br>🔐 Cybersecurity & threat detection<br>☁️ Cloud & identity security<br>🤖 AI-powered analysis tools<br>⚙️ Scalable backend architectures<br><br>I’m especially interested in offensive security, distributed systems, and real-time intelligence platforms.
-
-
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejaswanthh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tejaswanth-surisetty-590322312) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@tejaswanthsurisetty) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/tejaswanthsurisetty/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejaswanthsurisetty@gmail.com) 
-
-# Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Tejaswanth2406&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Tejaswanth2406&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tejaswanth2406&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hey+I'm+Tejaswanth+Surisetty;Security+Engineer+%7C+AI+Systems+Builder;Cloud+%26+Identity+Security+Specialist" />
 
 ---
-[![](https://komarev.com/ghpvc/?username=Tejaswanth2406&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me  
+
+I build **high-performance, intelligent systems** at the intersection of:  
+
+- 🔐 Cybersecurity & Threat Detection  
+- ☁️ Cloud Identity & IAM Exploitation  
+- 🤖 AI-driven Analysis & Simulation  
+- ⚙️ Distributed & Real-Time Systems  
+
+Focused on designing systems that **detect, adapt, and evolve in real time**.  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🌌 Nyx — Adaptive Intelligence System  
+🔗 https://github.com/Tejaswanth2406/Nyx  
+> Intelligent system for adaptive analysis and decision-making  
+
+---
+
+### 🔮 Hollow Purple — Cloud Identity Threat Detection  
+🔗 https://github.com/Tejaswanth2406/hollow-purple  
+> Real-time identity graph engine detecting multi-stage attacks  
+
+---
+
+### 🌐 IoT Sentinel — IoT Security Scanner  
+🔗 https://github.com/Tejaswanth2406/iot_sentinal  
+> High-speed scanning + CVE intelligence platform  
+
+---
+
+### ⚖️ CLU — AI Legal Risk Analyzer  
+🔗 https://github.com/Tejaswanth2406/clu  
+> AI-powered legal document risk analysis  
+
+---
+
+## ⚒️ Tech Stack  
+
+**Languages**  
+`Python` `JavaScript` `TypeScript` `Java`  
+
+**Systems & Backend**  
+`Node.js` `FastAPI` `Distributed Systems`  
+
+**Security & Cloud**  
+`IAM` `Penetration Testing` `Wireshark` `Nmap` `Metasploit`  
+
+**DevOps**  
+`Docker` `Kubernetes` `Terraform` `GitHub Actions`  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejaswanth2406&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Tejaswanth2406&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/tejaswanth-surisetty-590322312/  
+- 🌐 Portfolio: https://tejaswanth2406.github.io/Portfolio/  
+- 📧 tejaswanthsurisetty@gmail.com  
+
+---
+
+## ⚡ Philosophy  
+
+> “I don’t just build software — I design systems that think, adapt, and survive.”
