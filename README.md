@@ -1,3 +1,4 @@
+# 👋 Hey, I'm Tejaswanth
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hey+I'm+Tejaswanth+Surisetty;Security+Engineer+%7C+AI+Systems+Builder;Cloud+%26+Identity+Security+Specialist" />
 </h1>
@@ -10,7 +11,6 @@
 
 ## 🧠 About Me  
 
-```diff
 + I build high-performance, intelligent systems that operate in real time.
 🔐 Cybersecurity & Threat Detection
 ☁️ Cloud Identity & IAM Exploitation
@@ -18,6 +18,7 @@
 ⚙️ Distributed & Scalable Architectures
 
 Designing systems that detect, adapt, and evolve autonomously
+autonomously
 
 🚀 Featured Projects
 🧠 Hakari — Cognitive Simulation Engine
