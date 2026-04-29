@@ -49,3 +49,4 @@ AI-powered legal document risk analysis
 <p align="center"> <a href="https://www.linkedin.com/in/tejaswanth-surisetty-590322312/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://tejaswanth2406.github.io/Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="mailto:tejaswanthsurisetty@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 ⚡ Philosophy
 <p align="center"> <i>“I don’t just build software — I design systems that think, adapt, and survive.”</i> </p> ```
+
