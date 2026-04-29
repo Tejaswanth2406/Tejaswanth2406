@@ -1,4 +1,4 @@
-<img width="1440" height="3248" alt="image" src="https://github.com/user-attachments/assets/831c3dda-2659-44b9-a28e-418214def0cb" /># 👋 Hey, I'm Tejaswanth
+<img width="1440" height="3248" alt="image" src="https://github.com/user-attachments/assets/831c3dda-2659-44b9-a28e-418214def0cb" /> Hey, I'm Tejaswanth
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hey+I'm+Tejaswanth+Surisetty;Security+Engineer;AI+Systems+Builder;Cloud+Identity+Security" />
 </h1>
